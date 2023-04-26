@@ -5,6 +5,7 @@ site/
 venv
 .venv/
 .vscode/
+.idea
 /*.pickle
 .requirements_installed
 /docs-sphinx/output/
